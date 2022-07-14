@@ -7,6 +7,10 @@ Example of create, update, delete and read operations in laravel 9 version.
 git clone https://github.com/aliyilmaz/laravel-crud-example.git
 ```
 
+```php
+composer install
+```
+
 ### Install
 ```php
 php artisan migrate
