@@ -4,16 +4,16 @@ Example of create, update, delete and read operations in laravel 9 version.
 
 ### Download
 
-Step 1 (download the project)
+Step 1 (download the project.)
 ```php
 git clone https://github.com/aliyilmaz/laravel-9-crud-example.git
 ```
-Step 2 (install packages)
+Step 2 (install packages.)
 ```php
 composer install
 ```
 
-Step 3 (create database update information in .env file)
+Step 3 (Create the database. Update database information in .env file.)
 ```php
 DB_CONNECTION=mysql
 DB_HOST=127.0.0.1
