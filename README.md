@@ -1,4 +1,4 @@
-## Laravel CRUD Example
+## Laravel 9 CRUD Example
 
 Example of create, update, delete and read operations in laravel 9 version.
 
