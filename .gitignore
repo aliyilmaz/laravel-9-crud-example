@@ -1,2 +1,3 @@
-bootstrap/cache/
 vendor/
+bootstrap/cache/packages.php
+bootstrap/cache/services.php
